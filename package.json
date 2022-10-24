@@ -1,0 +1,26 @@
+{
+  "name": "met-office",
+  "version": "1.0.0",
+  "type": "module",
+  "module": "index.js",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucykelsall/met-office-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucykelsall/met-office-js/issues"
+  },
+  "homepage": "https://github.com/lucykelsall/met-office-js#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.10",
+    "readline-sync": "^1.4.10"
+  }
+}
